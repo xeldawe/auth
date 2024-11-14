@@ -4,12 +4,12 @@ Reactive auth
 start.spring.io
 
 Base:
-graalvm
-reactive cassandra, redis
-webflux
+graalvm,
+reactive cassandra, reactive redis,
+webflux,
 docker compose
 
-Others
-lombok
-config processor
+Others:
+lombok,
+config processor,
 devtool
